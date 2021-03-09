@@ -1,2 +1,2 @@
 # -Calculator
-To run you need .NET Framework 4.6.1
+To see the code you need .NET Framework 4.6.1
