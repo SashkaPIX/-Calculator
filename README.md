@@ -1,2 +1,3 @@
 # -Calculator
-To see the code you need .NET Framework 4.6.1
+
+This is how I made a calculator 0_0
